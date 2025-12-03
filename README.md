@@ -10,7 +10,7 @@ https://max-everyday.com/2023/11/buy-ticket-by-vm/#maxbot
 # 程式細節說明
 https://stackoverflow.max-everyday.com/2018/03/selenium-chrome-webdriver/
 
-# 可參考開發者2024建議 改使用nodriver
+可參考開發者2024建議 改使用nodriver
 https://stackoverflow.max-everyday.com/2024/09/selenium-undetected-chromedriver-nodriver/
 
 # Download (搶票程式下載)
