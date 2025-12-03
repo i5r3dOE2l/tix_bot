@@ -3,8 +3,11 @@ MaxBot是一個免費、開放原始碼的搶票機器人。祝您搶票成功�
 
 MaxBot is a FREE and open source bot program. Good luck getting your expected ticket.
 
-# Download (搶票程式下載)
-https://github.com/max32002/tixcraft_bot/releases
+# 詳細說明
+https://max-everyday.com/2023/11/buy-ticket-by-vm/#maxbot
+
+//# Download (搶票程式下載)
+
 
 # Demo (示範影片)
 
