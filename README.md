@@ -95,6 +95,9 @@ https://youtu.be/AmOYg8Oj0qM
 1: download chromedrive to "webdriver" folder:
 http://chromedriver.chromium.org/downloads
 
+可參考開發者2024建議 改使用nodriver
+https://stackoverflow.max-everyday.com/2024/09/selenium-undetected-chromedriver-nodriver/
+
 change the chromedrive in chrome_tixcraft.py, source code:
 <code>chromedriver_path =Root_Dir+ "webdriver/chromedriver"</code>
 the default path is the script path + "webdriver/chromedriver", My suggestion is to create a new directory, then move the chromedrive under new folder.
