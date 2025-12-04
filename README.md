@@ -15,6 +15,10 @@ https://stackoverflow.max-everyday.com/2018/03/selenium-chrome-webdriver/
 
 https://stackoverflow.max-everyday.com/2024/09/selenium-undetected-chromedriver-nodriver/
 
+其他參考資料
+
+https://hackmd.io/@iampatrick/ryaJIdbX5
+
 # Download (搶票程式下載)
 下載連結已移除
 
