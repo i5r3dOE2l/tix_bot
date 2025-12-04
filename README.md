@@ -19,6 +19,12 @@ https://stackoverflow.max-everyday.com/2024/09/selenium-undetected-chromedriver-
 
 https://hackmd.io/@iampatrick/ryaJIdbX5
 
+https://ithelp.ithome.com.tw/articles/10369270
+
+Chromedriver
+
+https://developer.chrome.com/docs/chromedriver/get-started?hl=zh-tw
+
 # Download (搶票程式下載)
 下載連結已移除
 
